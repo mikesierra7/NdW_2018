@@ -1,5 +1,5 @@
-# 34c3_EWH_MWE
-This minimum working example (MATLAB or Octave) is supplemental material to the talk "Watching the changing Earth", given at the 34th Chaos Communications Congress on the 27. December 2017 in Leipzig, Germany  ([abstract](https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8964.html), [video](https://media.ccc.de/v/34c3-8964-watching_the_changing_earth)).
+# NdW_2018_EWH_MWE
+This minimum working example (MATLAB or Octave) is supplemental material to the talk "Watching the changing Earth", given at the 34th Chaos Communications Congress on the 27. December 2017 in Leipzig, Germany  ([abstract](https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8964.html), [video](https://media.ccc.de/v/34c3-8964-watching_the_changing_earth), [DOI: 10.5446/34825](https://doi.org/10.5446/34825)).
 This example calculates the Equivalent Water Height (EWH) as an expression of mass change between May 2002 and May 2017 for Greenland using the ITSG-GRACE2016 gravity field solutions (Mayer-Gürr et al. 2016). Spatial averaging with a Gaussian filter is used for destriping.
 
 This example does **NOT** include corrections for additional gravity effects (e.g. GIA) or leakage. The intend of this demo is solely to give an example of the evaluation of gravity field solutions provided in spherical harmonic coefficients.

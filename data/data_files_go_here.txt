@@ -1,7 +1,7 @@
-data files in .gfc format go here
+In diesem Verzeichnis werden Datei im .gfc Format gespeichert.
 
-Collection of models and References:
+Sammlung von Modellen und Referenzen:
 http://icgem.gfz-potsdam.de/home
 
-Data used for this example:
+GRACE Monatslösungen für dieses Beispiel:
 ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120

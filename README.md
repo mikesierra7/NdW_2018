@@ -8,7 +8,7 @@ In diesem Beispiel sind **keine** weiteren Korrekturen für zusätzliche Schwere
 Den Berechnungsablauf beschreiben Wahr et al. (1998) auf Grundlage simulierter GRACE Beobachtungen und Wahr (2007) mit GRACE Beobachtungen. Eine allgemeine Beschreibung der Berechnung diverser Schwerefeldgrößen aus Kugelfunktionskoeffizienten gibt Barthelmes (2013). Eine ausgiebige Beschreibung des Schwerefeldes der Erde gibt es in geodätischen Lehrbüchern, wie z. B. Hofmann-Wellenhof und Moritz (2006) sowie Torge und Müller (2012). Ein Lehrbuch in deutscher Sprache liefert Torge (2003).
 
 Die für dieses Beispiel notwendigen GRACE Monatslösungen stammen vom  [Institut für Geodäsie](https://www.tugraz.at/institute/ifg/downloads/gravity-field-models/itsg-grace2016/), Technische Universität Graz:
-[ftp://ftp.tugraz.at](ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120)
+[ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120](http://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120)
 
 Das beiliegende PDF Dokument enthält weitere Informationen und Links zu Diensten und Datenquellen die im Vortrag genannt wurden.
 

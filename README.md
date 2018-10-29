@@ -3,9 +3,9 @@ Dieses Programmbeispiel (MATLAB und Octave) dient als Ergänzung des Vortrages "
 
 In diesem Beispiel wird die äquivalente Wasserhöhe (EWH) als Ausdruck der Massenänderung zwischen Mai 2002 und Mai 2017 für Grönland berechnet. Grundlage für die Berechnung ist die ITSG-GRACE2016 Schwerefeld Lösung (Mayer-Gürr et al. 2016). Ein Gauss Filter wird als räumliches Filter eingesetzt.
 
-In diesem Beispiel sind **keine** weiteren Korrekturen für zusätzliche Schwereeffekte (z.B. Landhebung/GIA) enthalten. Diese Demo dient ausschließlich der Demonstration einer Berechnung von Schwerefeldgrößen aus Kugelfunktionskoeffizienten.
+In diesem Beispiel sind **keine** weiteren Korrekturen für zusätzliche Schwereeffekte (z.B. Landhebung/GIA) oder Leakage enthalten. Diese Demo dient ausschließlich der Demonstration einer Berechnung von Schwerefeldgrößen aus Kugelfunktionskoeffizienten. In den [GRCTellus JPL-Mascon](https://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/) Monatslösungen sind diese Effekte weitestgehend beseitigt.
 
-Den Berechnungsablauf beschreiben Wahr et al. (1998) auf Grundlage simulierter GRACE Beobachtungen und Wahr (2007) mit GRACE Beobachtungen. Eine allgemeine Beschreibung der Berechnung diverser Schwerefeldgrößen aus Kugelfunktionskoeffizienten gibt Barthelmes (2013). Eine ausgiebige Beschreibung des Schwerefeldes der Erde gibt es in geodätischen Lehrbüchern, wie z. B. Hofmann-Wellenhof und Moritz (2006) sowie Torge und Müller (2012). EinLehrbuch in deutscher Sprache liefert Torge (2003).
+Den Berechnungsablauf beschreiben Wahr et al. (1998) auf Grundlage simulierter GRACE Beobachtungen und Wahr (2007) mit GRACE Beobachtungen. Eine allgemeine Beschreibung der Berechnung diverser Schwerefeldgrößen aus Kugelfunktionskoeffizienten gibt Barthelmes (2013). Eine ausgiebige Beschreibung des Schwerefeldes der Erde gibt es in geodätischen Lehrbüchern, wie z. B. Hofmann-Wellenhof und Moritz (2006) sowie Torge und Müller (2012). Ein Lehrbuch in deutscher Sprache liefert Torge (2003).
 
 Die für dieses Beispiel notwendigen GRACE Monatslösungen stammen vom  [Institute für Geodäsie, Technische Universität Graz](https://www.tugraz.at/institute/ifg/downloads/gravity-field-models/itsg-grace2016/):
 <ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120>

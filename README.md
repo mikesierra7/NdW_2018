@@ -10,7 +10,7 @@ Den Berechnungsablauf beschreiben Wahr et al. (1998) auf Grundlage simulierter G
 Die für dieses Beispiel notwendigen GRACE Monatslösungen stammen vom  [Institut für Geodäsie](https://www.tugraz.at/institute/ifg/downloads/gravity-field-models/itsg-grace2016/), Technische Universität Graz:
 [ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120](http://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120)
 
-Das beiliegende PDF Dokument enthält weitere Informationen und Links zu Diensten und Datenquellen die im Vortrag genannt wurden.
+Das beiliegende PDF Dokument enthält weitere Informationen und Links zu Diensten und Datenquellen die im Vortrag genannt wurden. Der [GRACE Plotter](http://www.thegraceplotter.com) ist ein online Visualisierungstool zur Darstellung von Zeitreihen für verschiedene Regionen und Schwerefeldgrößen.
 
 Ein ähnlicher Vortrag wurde auf dem 34. Chaos Communications Congress am 27. Dezember 2017 in Leipzig gehalten, der auch als Video verfügbar ist   ([Abstract](https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8964.html), [Video](https://media.ccc.de/v/34c3-8964-watching_the_changing_earth), [DOI: 10.5446/34825](https://doi.org/10.5446/34825)).
 

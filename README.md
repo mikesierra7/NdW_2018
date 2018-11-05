@@ -1,5 +1,5 @@
 # NdW_2018_EWH_MWE
-Dieses Programmbeispiel (MATLAB und Octave) dient als Ergänzung des Vortrages "Vom Satelliten in die Zeitung" auf *Die Nacht, die Wissen schafft* am 10.11.2018 an der Leibniz Universität Hannover.
+Dieses Programmbeispiel ([MATLAB](https://de.mathworks.com) und [Octave](https://www.gnu.org/software/octave/)) dient als Ergänzung des Vortrages "Vom Satelliten in die Zeitung" auf [*Die Nacht, die Wissen schafft*](http://www.dienachtdiewissenschafft.de) am 10.11.2018 an der Leibniz Universität Hannover.
 
 In diesem Beispiel wird die äquivalente Wasserhöhe (EWH) als Ausdruck der Massenänderung zwischen Mai 2002 und Mai 2017 für Grönland berechnet. Grundlage für die Berechnung ist die ITSG-GRACE2016 Schwerefeld Lösung (Mayer-Gürr et al. 2016). Ein Gauss Filter wird als räumliches Filter eingesetzt.
 

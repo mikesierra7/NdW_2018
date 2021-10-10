@@ -17,6 +17,7 @@ Ein ähnlicher Vortrag wurde auf dem 34. Chaos Communications Congress am 27. De
 **How to**
 * GRACE Monatslösungen für 2002-05 und 2017-05 im *data* Ordner speichern
 * example.m in MATLAB oder Octave ausführen
+* example.py in Python ausführen. Es wird das [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) Packet für die Darstellung von Küstenlinien benötigt. Die notwendigen Küstenlinien werden automatisch von Cartopy nachgeladen.
 
 **Referenzen**
 * Barthelmes, F. (2013): Definitions of Functionals of the Geopotential and Their Calculation from Spherical Harmonic Models. Scientific Technical Report STR09/02. GFZ Potsdam, URL: <http://icgem.gfz-potsdam.de/theory>
